@@ -1,0 +1,1 @@
+Este repositório, apresenta algoritmos de aprendizado profundos (modelos de CNNs), que classificam lesões colorretais em imag. histológicas H&E, com atenção (análise) de regiões de interesse (glândulas e núcleos). Os modelos CNNs são explicados por meio de metodologias como GradCAM, segmentações, similaridade, correlações e métricas de desempenho.
